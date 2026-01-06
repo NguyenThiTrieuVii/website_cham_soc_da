@@ -1,0 +1,9 @@
+1. Cài đặt môi trường: Tải và cài đặt XAMPP.
+2. Cấu hình Database:
+   - Mở XAMPP Control Panel, Start Apache và MySQL.
+   - Truy cập: localhost/phpmyadmin
+   - Import file chamsocda.sql từ thư mục setup trong repository này.
+3. Triển khai Code:
+   - Copy thư mục chamda trong thư mục src vào đường dẫn C:/xampp/htdocs/
+4. Chạy ứng dụng:
+   - Truy cập localhost/chamda trên trình duyệt.
